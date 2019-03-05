@@ -32,6 +32,7 @@ public class DateTimePractice {
 
         System.out.println(date.plus(periodMonths));
         System.out.println(date.plus(periodsYears));
+        System.out.println(date.plusDays(20));
 
 
     }
