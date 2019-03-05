@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5ca97a7-466e-4c5c-a0a8-fc429d48b9dc" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DateTimePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DateTimePractice.java" afterDir="false" />
+>>>>>>> 5db49b26d5530bdfd52a9ec34809bc19ba826c88
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +22,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DateTimePractice.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="359">
               <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+=======
+            <state relative-caret-position="496">
+              <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+>>>>>>> 5db49b26d5530bdfd52a9ec34809bc19ba826c88
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,8 +51,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DateTimePractice.java" />
         <option value="$PROJECT_DIR$/src/PracticeMap.java" />
+        <option value="$PROJECT_DIR$/src/DateTimePractice.java" />
       </list>
     </option>
   </component>
@@ -59,12 +69,18 @@
     <panes>
       <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551798347862" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551797090584" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GITDemo" />
+>>>>>>> 5db49b26d5530bdfd52a9ec34809bc19ba826c88
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -117,7 +133,11 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3192133" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31996974" />
+>>>>>>> 5db49b26d5530bdfd52a9ec34809bc19ba826c88
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -148,7 +168,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/PracticeMap.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="352">
+=======
+        <state relative-caret-position="480">
+>>>>>>> 5db49b26d5530bdfd52a9ec34809bc19ba826c88
           <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -158,8 +182,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DateTimePractice.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="359">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+=======
+        <state relative-caret-position="496">
+          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+>>>>>>> 5db49b26d5530bdfd52a9ec34809bc19ba826c88
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
